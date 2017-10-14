@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 
-// Components
 import EditToggle from './components/EditToggle';
 import ColorChanger from './components/ColorChanger';
 import SizeChanger from './components/SizeChanger';
